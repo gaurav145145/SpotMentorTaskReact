@@ -19,13 +19,13 @@ Go through the structure of the project and figure out how you would proceed.
 ***User Flow***
 
 1. User Lands on the first view where no classRoom is selected
-![landing](./Images/img3.png)
+![landing](./Images/img3.PNG)
 
 2. Clicking on a Class User can see the full view of that class
-![OneClassSelected](./Images/img2.png)
+![OneClassSelected](./Images/img2.PNG)
 
 3. Clicking on a 'Show Average' can see the Average of marks of all students in that class.
-![ShowingClassroomAverage](./Images/img1.png)
+![ShowingClassroomAverage](./Images/img1.PNG)
 
 
 ## Data
